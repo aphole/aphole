@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aphole
-- 👀 I’m interested in Wed Development and Design
+- 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning React + Vite
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
